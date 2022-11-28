@@ -18,3 +18,5 @@ It also calculates the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross
 The calculation rates are found in the following links:
 - https://www.aren.co.ke/payroll/taxrates.htm 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+
+Author: Elias Ndegwa
